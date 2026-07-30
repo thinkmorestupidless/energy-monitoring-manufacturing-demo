@@ -4,6 +4,10 @@ This demo was put together for the North East Automotive Alliance's Energy Showc
 
 Originally designed to be something visual to have on our little table/booth at the event it turned out to require some changes, learning and custom development, and so became an interesting little project in its own right.
 
+## Video
+
+[![Energy Monitoring (in Manufacturing) Demo](https://img.youtube.com/vi/aZhuhr1evYg/0.jpg)](https://www.youtube.com/watch?v=aZhuhr1evYg)
+
 ## This README is Work-in-Progress
 
 This README doesn't cover everything that's needed to get the demo up and running (yet) - i'm working on that but in the meantime if you're interested in:
@@ -12,4 +16,4 @@ This README doesn't cover everything that's needed to get the demo up and runnin
 - Using iOS RealityKit in general (and using it to render multiple instances of the same animated model in particular)
 - Using Protobufs in Swift
 
-Then contact trevor [spirally squirrel symbol] lunatech.co.uk for more info
+Then contact trevor [spirally squirrel symbol] thinkmorestupidless.com for more info
